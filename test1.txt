@@ -1,0 +1,2 @@
+This is a second testing file for git test. The process has been interesting. I have be 
+creating new branches and it feels good  while learning git,
